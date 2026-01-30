@@ -1,136 +1,210 @@
-👋 Hi, I'm Sangameshwaran G
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Fintech+Security+Architect;DevSecOps+Practitioner;Blockchain+Security+Builder" /> </p>
-🧠 About Me
+# 👋 Hi, I'm Sangameshwaran G
 
-Cybersecurity engineer focused on building secure, scalable, and production-ready systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Fintech+Security+Architect;DevSecOps+Practitioner;Blockchain+Security+Builder" />
+</p>
 
-I specialize in:
+---
 
-🔐 Secure backend architecture
+## 🧠 About Me
 
-🏦 Fintech security systems
+Cybersecurity engineer focused on building **secure, scalable, and production-ready systems**.
 
-🛡️ Application security & vulnerability intelligence
+- 🔐 Secure backend architecture  
+- 🏦 Fintech security systems  
+- 🛡️ Application security & vulnerability intelligence  
+- ⚙️ DevSecOps automation  
+- ⛓️ Blockchain-based audit integrity  
 
-⚙️ DevSecOps automation
+🎓 B.E. Cyber Security  
+📍 India  
+📫 sangameshwarang23cys@srishakthi.ac.in  
 
-⛓️ Blockchain-based audit integrity
+---
 
-🎓 B.E. Cyber Security
-📍 India
-📫 sangameshwarang23cys@srishakthi.ac.in
+# 🚀 High-Impact Projects
 
-🚀 High-Impact Projects
-🏦 Cybersecurity Framework for Rural Digital Banking
+---
 
-Production-grade fintech prototype designed for secure rural banking environments.
+<details>
+<summary><b>🏦 Cybersecurity Framework for Rural Digital Banking</b></summary>
 
-Highlights
+<br>
 
-JWT + Refresh Token Authentication
+<img src="https://img.shields.io/badge/Fintech-Security-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blockchain-Verified-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-FraudDetection-orange?style=for-the-badge"/>
 
-AES-256-GCM Encryption
+### 🔥 Highlights
+- JWT + Refresh Token Authentication  
+- AES-256-GCM Encryption  
+- ML-based Fraud Detection  
+- Redis Rate Limiting + Security Headers  
+- Hybrid Blockchain (Private + Ethereum Anchoring)  
+- Certificate Pinning & Device Fingerprinting  
+- Multi-language Support  
 
-ML-based Fraud Detection (scikit-learn)
+**Stack:**  
+`Python` `Flask` `MySQL` `Redis` `Docker` `Ethereum` `Kotlin`
 
-Redis Rate Limiting + Security Headers (HSTS, CSP)
+</details>
 
-Hybrid Blockchain (Private Chain + Ethereum Anchoring)
+---
 
-Android App with Certificate Pinning & Device Fingerprinting
+<details>
+<summary><b>📡 P2P Secure File Sharing (Wi-Fi Direct + E2E Encryption)</b></summary>
 
-Multi-language Support (English, Hindi, Tamil)
+<br>
 
-Stack: Python • Flask • MySQL • Redis • Docker • Ethereum • Kotlin
+<img src="https://img.shields.io/badge/E2E-Encrypted-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WiFi-Direct-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cryptography-ECDH_AES--GCM-red?style=for-the-badge"/>
 
-📡 P2P Secure File Sharing (Wi-Fi Direct + E2E Encryption)
+### 🔥 Highlights
+- QR-based Secure Pairing  
+- ECDH Key Exchange  
+- AES-GCM Encryption  
+- Parallel Chunk Transfer  
+- Background Transfer Service  
+- Room Database Persistence  
 
-Secure offline file sharing system using direct device communication.
+**Stack:**  
+`Kotlin` `Wi-Fi Direct` `TCP Sockets` `Cryptography`
 
-Highlights
+</details>
 
-QR-based Secure Device Pairing
+---
 
-ECDH Key Exchange
+<details>
+<summary><b>🗑️ Secure Data Wiping with Blockchain Verification</b></summary>
 
-AES-GCM Encryption
+<br>
 
-Chunked Parallel Transfer Engine
+<img src="https://img.shields.io/badge/NIST-800--88-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Audit-Immutable-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHA--256-Verified-green?style=for-the-badge"/>
 
-Background Transfer Service
+### 🔥 Highlights
+- SHA-256 Tamper Detection  
+- Immutable Ethereum Audit Logs  
+- QR-Verified PDF Certificates  
+- Batch CLI Processing  
+- Privacy-Safe Infrastructure  
 
-Room DB for Transfer History
+**Stack:**  
+`Python` `Ethereum` `Cryptography` `PDF Automation`
 
-Stack: Kotlin • Wi-Fi Direct • Cryptography • TCP Sockets
+</details>
 
-🗑️ Secure Data Wiping with Blockchain Verification
+---
 
-NIST 800-88 compliant data destruction system with blockchain-backed proof.
+<details>
+<summary><b>🛡️ MalCure – CVE-Driven Smart Malware Response</b></summary>
 
-Highlights
+<br>
 
-Cryptographic Hash Verification (SHA-256)
+<img src="https://img.shields.io/badge/CVE-Intelligence-critical?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CVSS-RiskEngine-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Remediation-success?style=for-the-badge"/>
 
-Immutable Audit Trail (Local Ethereum)
+### 🔥 Highlights
+- Environment-wide Vulnerability Scanning  
+- CVE Mapping + CVSS Prioritization  
+- Zero-day Risk Pattern Detection  
+- Automated Patch Deployment  
+- Full Audit Log Generation  
 
-PDF Destruction Certificates with QR Verification
+**Stack:**  
+`Python` `CVE APIs` `CVSS` `Automation`
 
-Batch CLI Processing
+</details>
 
-Privacy-Safe Infrastructure
+---
 
-Stack: Python • Ethereum • Cryptography • PDF Automation
+<details>
+<summary><b>🎧 Multi-TWS Audio Streaming System</b></summary>
 
-🛡️ MalCure – CVE-Driven Smart Malware Response System
+<br>
 
-Automated vulnerability intelligence & remediation system.
+<img src="https://img.shields.io/badge/Unlimited-Streaming-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OTP-Secured-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrossPlatform-Android_iOS-orange?style=for-the-badge"/>
 
-Highlights
+### 🔥 Highlights
+- FFmpeg Audio Capture Pipeline  
+- OTP-Secured Node.js Backend  
+- Browser-Based Receiver  
+- Unlimited Device Streaming  
+- Bluetooth Limitation Bypass  
 
-Environment-wide Vulnerability Scanning
+**Stack:**  
+`Node.js` `FFmpeg` `WebSockets` `JavaScript`
 
-CVE Mapping & CVSS Prioritization
+</details>
 
-Zero-day Risk Pattern Detection
+---
 
-Automated Patch Deployment
+# 🧰 Technical Arsenal
 
-Full Audit Log Generation
+---
 
-Stack: Python • CVE Intelligence • CVSS • Automation
+## 💻 Languages
 
-🎧 Multi-TWS Audio Streaming System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,javascript,dart&perline=6" />
+</p>
 
-Engineered a scalable alternative to Bluetooth limitations.
+---
 
-Highlights
+## ⚙️ Security & DevOps
 
-Streams system audio to unlimited devices
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,redis,linux,nginx,githubactions&perline=6" />
+</p>
 
-FFmpeg-based capture pipeline
+---
 
-OTP-secured Node.js backend
+## 🛡️ Security Tools
 
-Browser-based universal receiver
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,ethereum" />
+</p>
 
-Cross-platform support (Android & iOS)
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-NetworkScanning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-PacketAnalysis-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CVSS-RiskScoring-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cryptography-AES_ECDH-green?style=for-the-badge"/>
+</p>
 
-Stack: Node.js • FFmpeg • WebSockets • JavaScript
+---
 
-🧰 Technical Arsenal
-💻 Languages
+# 📊 GitHub Analytics
 
-Python • Java • Kotlin • C • JavaScript • Dart
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangameshwaran1713&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangameshwaran1713&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-⚙️ Security & DevOps
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sangameshwaran1713&theme=tokyonight&hide_border=true" />
+</p>
 
-Docker • Jenkins • Redis • Nginx • Linux • GitHub Actions
+---
 
-🛡️ Security Tools
+# 🌍 Connect
 
-Nmap • Wireshark • Blockchain • CVSS • Cryptographic Protocols
-
-📊 GitHub Analytics
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sangameshwaran1713&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangameshwaran1713&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sangameshwaran1713&theme=tokyonight&hide_border=true" /> </p>
-🌍 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/sangameshwaran-g-967691296/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:sangameshwarang23cys@srishakthi.ac.in"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /> </a> <a href="https://github.com/sangameshwaran1713"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> </a> <a href="https://leetcode.com/u/Sangameshwaran_3333/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" /> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sangameshwaran-g-967691296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sangameshwarang23cys@srishakthi.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/sangameshwaran1713">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/u/Sangameshwaran_3333/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
