@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Sangameshwaran G
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN Stack Developer;Cybersecurity+Engineer;DevSecOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;DevSecOps+Practitioner" />
 </p>
-
 ---
 
 ## 🧠 About Me
