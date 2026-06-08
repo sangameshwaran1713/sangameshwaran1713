@@ -23,26 +23,24 @@ Cybersecurity engineer focused on building **secure, scalable, and production-re
 
 ---
 
-<details>
-<summary><b>🏦 Cybersecurity Framework for Rural Digital Banking</b></summary>
+<details><summary><b>🤖 CodeInsight AI — AI-Powered Code Analysis Platform</b></summary><br>
 
-<br>
-
-<img src="https://img.shields.io/badge/Fintech-Security-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Blockchain-Verified-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML-FraudDetection-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-LLM-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-FastAPI-green?style=for-the-badge"/>
 
 ### 🔥 Highlights
-- JWT + Refresh Token Authentication  
-- AES-256-GCM Encryption  
-- ML-based Fraud Detection  
-- Redis Rate Limiting + Security Headers  
-- Hybrid Blockchain (Private + Ethereum Anchoring)  
-- Certificate Pinning & Device Fingerprinting  
-- Multi-language Support  
+- Local LLM Integration via Ollama (zero API cost, full privacy)
+- AI Code Analysis — Explain, Bug Detection, Complexity, Improvements
+- Dry Run — Traces code execution logic without running it
+- Secure Sandbox Execution (Python, JavaScript, Java)
+- JWT Auth + Email Verification + OTP + Rate Limiting
+- 30+ Security Patches — NoSQL Injection, IDOR, RBAC, bcrypt
+- Monaco Editor IDE with Draggable Split Panes
+- Animated WebGL Shader & Space Starfield Backgrounds
 
-**Stack:**  
-`Python` `Flask` `MySQL` `Redis` `Docker` `Ethereum` `Kotlin`
+**Stack:**
+`React` `Node.js` `Express` `MongoDB` `Python` `FastAPI` `Ollama` `Tailwind CSS` `Docker` `JWT`
 
 </details>
 
