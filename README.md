@@ -9,12 +9,10 @@
 ## 🧠 About Me
 
 Cybersecurity engineer focused on building **secure, scalable, and production-ready systems**.
-
+- MERN Stack Developer
 - 🔐 Secure backend architecture  
-- 🏦 Fintech security systems  
 - 🛡️ Application security & vulnerability intelligence  
 - ⚙️ DevSecOps automation  
-- ⛓️ Blockchain-based audit integrity  
 
 🎓 B.E. Cyber Security  
 📍 India  
